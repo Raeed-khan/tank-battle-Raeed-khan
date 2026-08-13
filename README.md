@@ -63,3 +63,15 @@ Open the following file:
 
 ```text
 index.html
+Step 3
+
+The game will open in your web browser.
+
+Step 4
+
+Use the keyboard to control your tank.
+
+Step 5
+
+Press: SPACE
+to fire at enemy tanks.
